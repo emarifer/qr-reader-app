@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 -------
 
-## 
+## App created with Flutter for reading QR codes of website addresses and geolocations.
 
 -------
 
